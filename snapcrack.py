@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/smba_tr0/bin/env python
 
 from pysnap import *
 import sys
